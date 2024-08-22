@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "node-qpdf": "^1.0.3",
+    "nodemailer": "^6.9.14",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1"
+  }
+}
